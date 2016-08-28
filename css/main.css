@@ -49,7 +49,8 @@ a:hover {
 /*
 /*****************************************************************************/
 #logo {
-  max-width: 128px;
+  width: 1.75in;
+  height: 2.00in;
 }
 
 .posts a {
@@ -223,7 +224,7 @@ a:hover {
 
 .sidebar {
   float: left;
-  width: 14%;
+  width: 15%;
   padding-left: 11em;
   padding-right: 2.125em;
   border-right: 1px solid #e7e7e7;
